@@ -1,0 +1,6 @@
+Para poder ver las visualizaciones de Tableau:
+1: Crear en disco local D  una carpeta llamada "DIPLOMADO ESTADISTICA", y dentro de esta carpeta crear 
+una carpeta llamada "proyecto", y pegar ahi el archivo excel llamado "profesores_fin - copia - copia.xlxs"
+2: instalar Tableau.
+3: Abrir el programa "PROYECTO_DIPLOMADO".
+4: es todo.

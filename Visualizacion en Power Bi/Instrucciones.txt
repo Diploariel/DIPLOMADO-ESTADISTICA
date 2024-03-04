@@ -1,0 +1,4 @@
+Para ver las vizualizaciones debes:
+1: instalar Power Bi en tu computadora.
+2: abrir el archivo "INCLUSION DIGITAL.pbix"
+3: es todo.
