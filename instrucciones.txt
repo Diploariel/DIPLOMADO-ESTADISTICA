@@ -1,0 +1,7 @@
+Para poder hacer correr el codigo en Colab:
+
+1: Vincular tu Drive con google Colab
+2: Subir el archivo "profesores_final.xlxs" en la subcarpeta MyDrive de la carpeta drive 
+"drive/MyDrive/profesores_final.xlsx"
+3: Subir el archivo "dataset4.xlxs" en la subcarpeta MyDrive de la carpeta drive 
+"drive/MyDrive/dataset4.xlsx"
